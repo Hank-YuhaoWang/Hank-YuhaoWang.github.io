@@ -8,8 +8,8 @@ fa-icon: graduation-cap
 
 # EDUCATION
 
+
 <div>
-<div class="education-block">
         <div align="center">
             <img src="img/duke.png" width="200px" />
         </div>
@@ -28,4 +28,4 @@ fa-icon: graduation-cap
             <li>ECE 560 - Computer & Information Security</li>
             <li>ECE 564 - Mobile APP Development</li>
 </div>
-</div>     
+    
