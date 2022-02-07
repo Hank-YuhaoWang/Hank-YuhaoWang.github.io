@@ -400,14 +400,14 @@ nav ul li:hover, nav ul li.active {
 
   h3 {
       font-weight: 500;
-      float: left;
+      text-align: left;  
       margin: 0;
       color: #374054;
   }
 
   span {
       color: #74808a;
-      float: right;
+      text-align: right;
   }
 
   h4 {
