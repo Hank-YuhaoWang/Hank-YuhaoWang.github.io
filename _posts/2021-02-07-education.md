@@ -2,10 +2,11 @@
 title: "education"
 bg: white
 color: black
-fa-icon: plug
+fa-icon: graduation-cap
 ---
 
 # EDUCATION
+
 <div id="education">
         <div class="education-block">
             <div align="center"> 
