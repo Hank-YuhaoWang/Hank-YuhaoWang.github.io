@@ -5,6 +5,7 @@ color: black
 fa-icon: plug
 ---
 
+# education
 <div id="education">
         <div class="education-block">
             <div align="center"> 
