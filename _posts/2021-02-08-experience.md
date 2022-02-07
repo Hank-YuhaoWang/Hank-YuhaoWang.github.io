@@ -5,8 +5,10 @@ color: black
 fa-icon: toggle-on
 ---
 
+#Experience
+
 <div id="experience" class="background-alt">
-        <h2 class="heading" >EXPERIENCE</h2> 
+    
         <div id="experience-timeline">
             <div data-date="Jan 2021 - May 2021">
                 <h2>Graduate Teaching Assistant</h2>
