@@ -408,6 +408,7 @@ nav ul li:hover, nav ul li.active {
   span {
       color: #74808a;
       text-align: right;
+      font-size: 0.9em;
   }
 
   h4 {
