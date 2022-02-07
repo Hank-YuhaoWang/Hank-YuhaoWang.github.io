@@ -5,7 +5,7 @@ color: black
 fa-icon: graduation-cap
 ---
 
-
+<div>
 # EDUCATION
 
 
@@ -28,4 +28,4 @@ fa-icon: graduation-cap
             <li>ECE 560 - Computer & Information Security</li>
             <li>ECE 564 - Mobile APP Development</li>
 </div>
-      
+</div>     
