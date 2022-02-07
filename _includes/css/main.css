@@ -374,8 +374,14 @@ nav ul li:hover, nav ul li.active {
   display:inline-block;
   color:#fbf7f5;
   padding:15px 25px;
-  border:3px solid #fbf7f5;
+  border:3px solid #fff;
   border-radius:30px;
+  background:#fbf7f5;
+  text-decoration:none
+}
+.btn-rounded-white:hover {
+  
+  border:3px solid #fbf7f5;
   background:#fbf7f5;
   text-decoration:none
 }
