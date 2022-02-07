@@ -435,3 +435,12 @@ nav ul li:hover, nav ul li.active {
   }
 }
 
+.education-date {
+    width: 260px;
+    text-align: right;
+    position: absolute;
+    left: 0;
+    top: 10px;
+    font-weight: 300;
+    color: #374054;
+}
