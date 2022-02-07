@@ -14,9 +14,8 @@ fa-icon: graduation-cap
             <img src="img/duke.png" width="200px" />
         </div>
         <br>
-            <h3>Duke University</h3>
-            <span>Aug 2019 - May 2021</span>
-            <h4>Master in Electrical and Computer Engineering <span>GPA: 3.83/4.0</span></h4>
+            <h3>Duke University <span>Aug 2019 - May 2021</span></h3>
+            <h4>Master in Electrical and Computer Engineering <span> GPA: 3.83/4.0</span></h4>
             <h4>FOCUS AREA: Software Engineering</h4>
             <li>IDS 721  - Data Analysis Scale in Cloud</li>
             <li>ECE 551 - Programming, Data Structures & Algorithms in C++ </li>
