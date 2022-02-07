@@ -1,8 +1,8 @@
 ---
 title: "education"
-bg: white
-color: '#4b3832'
-style: center
+bg: '#f8f8f8'
+color: black
+fa-icon: graduation-cap
 ---
 
 
