@@ -12,7 +12,6 @@ fa-icon: toggle-on
             <div data-date="Jan 2021 - May 2021">
                 <h2>Graduate Teaching Assistant</h2>
                 <h5 align = "center" >Jan 2021 - May 2021 | Duke University</h5>
-                
                 <ul>
                   <li>Teaching Assistant for Duke ECE650 Systems Programming and Engineering Course.</li>
                   <li>Responsible for helping instructors solving students’ problems when they are learning system programming.</li>
