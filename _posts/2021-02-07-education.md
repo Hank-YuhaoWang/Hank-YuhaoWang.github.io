@@ -5,13 +5,11 @@ color: black
 fa-icon: graduation-cap
 ---
 
-
-# EDUCATION
-
 <div id="education">
+        <h2 class="heading">EDUCATION</h2>
         <div class="education-block">
             <div align="center"> 
-                      <img src="asset/UCBerkeley.jpg" width="200px" />
+                      <img src="img/duke.png" width="200px" />
             </div>
             <br>
             <h3>Duke University</h3>
@@ -29,6 +27,16 @@ fa-icon: graduation-cap
             <li>ECE 560 - Computer & Information Security</li>
             <li>ECE 564 - Mobile APP Development</li>
         </div>
-</div>
-
-
+        <br><br>
+        <div class="education-block">
+            <div align="center"> 
+                      <img src="img/ustb.png" width="200px" />
+            </div>
+            <br>
+            <h3>University of Science & Technology Beijing</h3>
+            <span class="education-date">Aug 2015 - June 2019</span>
+            <h4>Bachelor in Electrical Engineering <span class="education-date">GPA: 3.83/4.0</span></h4>
+            <li>Outstanding Undergraduate Award (2019): Top 6 out of 300 undergraduates within Department</li>
+            <li>Department President(2017~2018): Excellent Student Leader in 2018</li>
+        </div>
+    </div>
