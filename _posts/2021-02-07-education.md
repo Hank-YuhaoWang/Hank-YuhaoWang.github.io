@@ -5,10 +5,10 @@ color: black
 fa-icon: graduation-cap
 ---
 
-<div>
+
 # EDUCATION
 
-
+<div>
 <div class="education-block">
         <div align="center">
             <img src="img/duke.png" width="200px" />
