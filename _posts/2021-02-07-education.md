@@ -9,7 +9,7 @@ fa-icon: plug
 <div id="education">
         <div class="education-block">
             <div align="center"> 
-                      <img src="asset/berkeley.png" width="200px" />
+                      <img src="asset/UCBerkeley.jpeg" width="200px" />
             </div>
             <br>
             <h3>Duke University</h3>
