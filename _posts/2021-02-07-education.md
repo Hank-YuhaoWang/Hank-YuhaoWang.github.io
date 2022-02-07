@@ -6,7 +6,6 @@ fa-icon: plug
 ---
 
 <div id="education">
-        <h1 class="heading">EDUCATION</h2>
         <div class="education-block">
             <div align="center"> 
                       <img src="asset/berkeley.png" width="200px" />
