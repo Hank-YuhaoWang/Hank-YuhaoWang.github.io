@@ -355,12 +355,6 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
-.subtlecircle {
-  text-align:center;
-  z-index:3;
-  border-radius:50%;
-    box-sizing: content-box;
-}
 
 .sectiondivider-big {    
   width:320px;
