@@ -1,11 +1,11 @@
 ---
 title: "experience"
-bg: "#f2f2f5"
+bg: white
 color: black
 fa-icon: toggle-on
 ---
 
-<div id="experience" class="background-alt">
+<div id="experience">
         <h2 class="heading" >EXPERIENCE</h2> 
         <div id="experience-timeline">
             <div data-date="Jan 2021 - May 2021">
