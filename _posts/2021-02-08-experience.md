@@ -1,6 +1,6 @@
 ---
 title: "experience"
-bg: white
+bg: "#f2f2f5"
 color: black
 fa-icon: toggle-on
 ---
