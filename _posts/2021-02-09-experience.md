@@ -5,9 +5,8 @@ color: black
 fa-icon: toggle-on
 ---
 
-
 <div id="experience" class="background-alt">
-        <h2 class="heading" >EXPERIENCE</h2>
+        <h2 class="heading" >EXPERIENCE</h2> 
         <div id="experience-timeline">
             <div data-date="Jan 2021 - May 2021">
                 <h2>Graduate Teaching Assistant</h2>
@@ -17,6 +16,9 @@ fa-icon: toggle-on
                   <li>Responsible for helping instructors solving students’ problems when they are learning system programming.</li>
                   <li>Helped students improve troubleshooting and debugging skill while programming.</li>
                 </ul>
+                <div align="center"> 
+                      <img src="img/app.jpg" width="200px" />
+                </div>
             </div>
             <div data-date="May 2020 - Aug 2020">
                 <h2>Software Engineer Intern</h2>
@@ -46,4 +48,3 @@ fa-icon: toggle-on
             </div>
         </div>
     </div>
-
